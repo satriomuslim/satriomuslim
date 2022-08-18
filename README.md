@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently a Cohort in **Mobile Developer Learning Path at Bangkit Academy**
+- 🔭 I’m Graduate **Mobile Developer Learning Path at Bangkit Academy 2022**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native, Flutter**
 
 - 📝 I created a web page [https://yinporang.id/](https://yinporang.id/)
 

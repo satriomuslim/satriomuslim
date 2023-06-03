@@ -6,9 +6,7 @@
 
 - 🔭 I’m Graduate **Mobile Developer Learning Path at Bangkit Academy 2022**
 
-- 🌱 I’m currently learning **React Native, Flutter**
-
-- 📝 I created a web page [https://yinporang.id/](https://yinporang.id/)
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android, Kotlin**
 

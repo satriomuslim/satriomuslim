@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android, Kotlin**
 
-- 📫 How to reach me **satriomuslim2627@gmail.com**
+- 📫 How to reach me **sakutatadakara26@gmail.com**
 
 - ⚡ Fun fact **I am from Yogyakarta**
 

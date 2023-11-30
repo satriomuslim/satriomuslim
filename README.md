@@ -25,8 +25,9 @@
 
 ### Github Statistic
 <p align="left">
-<a href="[https://github.com/gilangadhan](https://github.com/satriomuslim)">
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satriomuslim&layout=compact&langs_count=8&theme=algolia"/>
+<p>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=satriomuslim&show_icons=true&locale=en&layout=compact&theme=algolia" alt="satriomuslim" />
+</p>
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=satriomuslim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
